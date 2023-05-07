@@ -7,3 +7,4 @@
 * [ඉදිරිපස කේතය](https://github.com/xxai-art/web)
 * [සමස්තයක් ලෙස වෙබ් අඩවිය සඳහා භාෂා ඇසුරුම්](https://github.com/xxai-art/web/tree/main/i18n)
 * [පිවිසුම් මොඩියුල සඳහා භාෂා ඇසුරුම්](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [වෙබ් අඩවිය බහුභාෂා ලේඛනගත කිරීම](https://github.com/xxai-doc)
